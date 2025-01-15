@@ -2,7 +2,7 @@ import re
 from collections import defaultdict
 import streamlit as st
 
-# Sample e-commerce reviews for shirts
+# Sample e-commerce reviews for shirts (example)
 ecommerce_reviews = [
     "The shirt fits perfectly, the size is exactly as described.",
     "I didn't like the shirt color, it was much lighter than shown in the picture.",
